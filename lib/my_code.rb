@@ -1,5 +1,5 @@
 
- negativize = [1, 2, 3]
- p negativize.map{ |n| n*-1}
+ negativize-ized = [1, 2, 3]
+ p negativize-ized.map{ |n| n*-1}
      
  
